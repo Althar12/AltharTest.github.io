@@ -49,7 +49,6 @@
    <div class="container">
         <div class="header">
             <img src="https://upload.wikimedia.org/wikipedia/en/2/21/Web_of_Spider-Man_Vol_1_129-1.png" alt="Foto Profil">
-</head>
             <h1>Zayyinil Mustofa</h1>
             <p>Serang, Kota Serang, Banten, Indonesia| zayyinilmustofa0@gmail.com | 0877-8693-4047 </p>
         </div>
