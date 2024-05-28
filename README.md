@@ -21,8 +21,8 @@
             text-align: center;
         }
         .header img {
-            width: 400px;
-            border-radius: 0%;
+            width: 200px;
+            border-radius: 30%;
         }
         .header h1 {
             margin: 10px 0;
@@ -48,11 +48,7 @@
 <body>
    <div class="container">
         <div class="header">
-            <img src="https://upload.wikimedia.org/wikipedia/en/2/21/Web_of_Spider-Man_Vol_1_129-1.png"
-            height="350px"
-            width="75px"
-            style="border-radius: 20%"
-</body>
+            <img src="https://upload.wikimedia.org/wikipedia/en/2/21/Web_of_Spider-Man_Vol_1_129-1.png" alt="Foto Profil">
 </head>
             <h1>Zayyinil Mustofa</h1>
             <p>Serang, Kota Serang, Banten, Indonesia| zayyinilmustofa0@gmail.com | 0877-8693-4047 </p>
@@ -111,8 +107,6 @@ Hallo, perkenalkan saya Zayyinil Mustofa, saya seorang pelajar yang berusia 16 t
             <head>
                 <meta charset="UTF-8">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">    
-                </ul>
-            </body>
             <h4>KEMAMPUAN DAN HOBI </h4>
             <head>
     <meta charset="UTF-8">
@@ -207,9 +201,8 @@ Hallo, perkenalkan saya Zayyinil Mustofa, saya seorang pelajar yang berusia 16 t
     </style>
 </head>
 <body>
-    <h4>Sosial Media Saya</h4>
-    <a href="https://www.instagram.com/muussttfff?igsh=MTFya2tpMjU5cXcydw=="
-    class="button">
+    <h4>My social media</h4>
+    <a href="https://www.instagram.com/muussttfff?igsh=MTFya2tpMjU5cXcydw==" class="button">
         <img src="https://www.pngarts.com/files/11/Instagram-IG-Logo-Transparent-Image.png" alt="Logo"> IG - muussttfff
     </a>
 </body>
